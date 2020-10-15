@@ -5,6 +5,10 @@
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   </head>
   <body>
+      {% include header.html %}
+
       {{ content }}
+      
+      {% include footer.html %}
   </body>
 </html>
