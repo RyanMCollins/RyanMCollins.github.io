@@ -5,5 +5,9 @@ layout: default
 
 {% assign projects=site.projects | sort: "date" | reverse %}
 {%- for project in projects -%}
-    {% include project.html %}
+    <div class="row">
+        <div class="col">
+            {% include project.html %}
+        </div>
+    </div>
 {%- endfor -%}

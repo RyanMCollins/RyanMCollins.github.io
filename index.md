@@ -3,11 +3,23 @@ title: About
 layout: default
 ---
 
-{% assign category="bio" %}
-{% include bio.html %}
+<div class="row">
+    <div class="col">
+        {% assign category="bio" %}
+        {% include bio.html %}
+    </div>
+</div>
 
-{% assign category="education" %}
-{% include bio.html %}
+<div class="row">
+    <div class="col">
+        {% assign category="education" %}
+        {% include bio.html %}
+    </div>
+</div>
 
-{% assign category="experience" %}
-{% include bio.html %}
+<div class="row">
+    <div class="col">
+        {% assign category="experience" %}
+        {% include bio.html %}
+    </div>
+</div>
