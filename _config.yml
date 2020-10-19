@@ -5,6 +5,7 @@ collections:
     title: true
     description: true
     date: true
+    image: true
   
   bio:
     category: true

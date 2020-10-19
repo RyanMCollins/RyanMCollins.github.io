@@ -9,3 +9,9 @@
 .section-head span {
     border-bottom: 1px solid rgb(206, 206, 206);
 }
+
+.project-img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
