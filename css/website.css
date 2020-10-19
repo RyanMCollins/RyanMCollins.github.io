@@ -1,8 +1,11 @@
 .section {
     padding-top: 1.5em;
-    border-bottom: 1px solid lightgray;
 }
 
 .section-head {
     text-transform: capitalize;
+}
+
+.section-head span {
+    border-bottom: 1px solid rgb(206, 206, 206);
 }
