@@ -7,7 +7,7 @@ category: education
 
 <h4 class="pt-3">Independent Study in Computer Science & Statistics</h4>
 <h5 class="pl-2">Courses:</h5>
-<div class="row pl-5" id="dual-list">
+<div class="row pl-5">
     <ul class="col-md-6">
         <li>
             <p>Introduction to Computer Science and Programming - MIT</p>
