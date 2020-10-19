@@ -1,0 +1,8 @@
+.section {
+    padding-top: 1.5em;
+    border-bottom: 1px solid lightgray;
+}
+
+.section-head {
+    text-transform: capitalize;
+}
