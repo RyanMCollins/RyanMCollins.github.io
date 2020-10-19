@@ -3,7 +3,7 @@ category: experience
 ---
 
 <div>
-    <h3>Electronics Team Member</h3>
+    <h4>Electronics Team Member</h4>
     <div class="row pl-2">
         <div class="col-md-2">
             <h6>Target Corporation</h6>
@@ -16,7 +16,7 @@ category: experience
 </div>
 
 <div>
-    <h3>Engineer/Project Manager</h3>
+    <h4>Engineer/Project Manager</h4>
     <div class="row pl-2">
         <div class="col-md-2">
             <h6>Cardial</h6>
@@ -30,7 +30,7 @@ category: experience
 </div>
 
 <div>
-    <h3>Guide</h3>
+    <h4>Guide</h4>
     <div class="row pl-2">
         <div class="col-md-2">
             <h6>L.B. Waterbikes</h6>
