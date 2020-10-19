@@ -3,7 +3,6 @@ title: Ryan Collins
 collections:
   projects:
     title: true
-    description: true
     date: true
     image: true
   
