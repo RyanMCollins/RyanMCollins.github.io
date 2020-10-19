@@ -36,7 +36,7 @@ category: education
             <p>Data Science: R Basics - Harvard</p>
         </li>
         <li>
-            <p>The data Science Method - IBM</p>
+            <p>The Data Science Method - IBM</p>
         </li>
         <li>
             <p>Data Science: Linear Regression - Harvard</p>
