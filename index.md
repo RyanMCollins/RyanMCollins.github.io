@@ -5,13 +5,6 @@ layout: default
 
 <div class="row section">
     <div class="col">
-        {% assign category="bio" %}
-        {% include bio.html %}
-    </div>
-</div>
-
-<div class="row section">
-    <div class="col">
         {% assign category="education" %}
         {% include bio.html %}
     </div>
